@@ -18,7 +18,7 @@ If you want to help me built it just know I don't have money to compensate you w
 - I'm dischromatic (a lighter version of color blindness)
 - I don't know how to swim
 - I like to learn new language when I'm not working on a project
-- <b>Hobbies</b>: videogames, gym, traveling
+- <b>Hobbies</b>: anime, videogames, gym, traveling
 <!--
 **AMGiaccherini/AMGiaccherini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
