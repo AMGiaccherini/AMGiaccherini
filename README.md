@@ -4,7 +4,7 @@ I'm <b>[Andrea](https://amgiaccherini.github.io/amgiaccherini-website/)</b>, a s
 
 I generally like to start some big project to make some task easier.
 
-I usually work alone on projects, but i don't mind working in a team.
+I usually work alone on projects, but I don't mind working in a team.
 
 My main language are <b>Java</b>, <b>C++</b>, <b>Unreal Engine</b>, but I also use <b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>PHP</b> and <b>SQL</b> for web works.
 
@@ -12,7 +12,7 @@ I'm really proud of my recent work: <b>[DailyObjectives](https://github.com/AMGi
 
 I'm currently working on a singleplayer, survivalhorror with some sound mechanics, alone.
 
-If you want to help me built it just know i dont have money to compensate you ahah.
+If you want to help me built it just know I don't have money to compensate you with ahah.
 
 <b>Fun Facts:</b>
 - I'm dischromatic (a lighter version of color blindness)
