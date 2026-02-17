@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 
 I'm <b>[Andrea](https://amgiaccherini.github.io/amgiaccherini-website/)</b>, a software and web developer based in Italy.
 
@@ -6,7 +6,7 @@ I generally like to start some big project to make some task easier.
 
 I usually work alone on projects, but i don't mind working in a team.
 
-My main language are <b>Java</b>, <b>C++</b>, <b>Unreal Engine</b>, but use also <b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>PHP</b> and <b>SQL</b> for web works.
+My main language are <b>Java</b>, <b>C++</b>, <b>Unreal Engine</b>, but I also use <b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>PHP</b> and <b>SQL</b> for web works.
 
 I'm really proud of my recent work: <b>[DailyObjectives](https://github.com/AMGiaccherini/DailyObjectives)</b>.
 
